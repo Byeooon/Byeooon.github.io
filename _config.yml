@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "변쓰"
-  avatar           : "/Users/byeon/Git/Byeooon.github.io/assets/images/charmander.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/Users/byeon/Git/Byeooon.github.io/assets/images/mangnom.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Developing..."
   location         : "Seoul"
   email            :
