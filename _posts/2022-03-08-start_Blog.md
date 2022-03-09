@@ -1,11 +1,6 @@
 ---
 title : "TEST UPDATE"
-layout : posts
 comments : false
 categories : 
-    - "A"
-    - "B"
-    - "C"
+    - "Algorithm"
 ---
-
-Test Setting
