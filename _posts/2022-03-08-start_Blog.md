@@ -5,20 +5,31 @@ comments : false
 categories : 
     - "MarkDown"
 ---
+
 ### **MarkDown**
 
 ###### *마크다운은 텍스트 기반의 마크업언어이다.*
+---
 
-# <Heading>
+# Heading
 ## Heading
 ### Heading
 #### Heading
 ##### Heading
 ###### Heading
----
-**Bold**
 
-*Italic*
+---
+줄 바꿈
+
+
+Enter를 두번 누르거나</br>
+ `<br/>`를 입력하면 된다
+
+---
+
+**Bold**, __Bold__
+
+*Italic*, _Italic_
 
 ~~Strikethrough~~
 
