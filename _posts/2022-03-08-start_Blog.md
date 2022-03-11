@@ -10,7 +10,9 @@ categories :
 
 ###### *마크다운은 텍스트 기반의 마크업언어이다.*
 ---
-크기 조절은 **#** 을 이용한다.
+## *크기 조절은 **#** 을 이용한다.*
+
+- # Heading
 - ## Heading
 - ### Heading
 - #### Heading
@@ -75,4 +77,4 @@ print("Hello world!")
 <br/>
 # **사진 출력**
 
-![리자몽](https://static.wikia.nocookie.net/pokemon/images/c/c8/리자몽_공식_일러스트.png/revision/latest?cb=20170404233220&path-prefix=ko)
+![리자몽](https://static.wikia.nocookie.net/pokemon/images/c/c8/리자몽_공식_일러스트.png/revision/latest/scale-to-width-down/1000?cb=20170404233220&path-prefix=ko)
