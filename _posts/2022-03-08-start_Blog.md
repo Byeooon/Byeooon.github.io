@@ -10,19 +10,20 @@ categories :
 
 ###### *마크다운은 텍스트 기반의 마크업언어이다.*
 ---
-
-# Heading
-## Heading
-### Heading
-#### Heading
-##### Heading
-###### Heading
+크기 조절은 **#** 을 이용한다.
+- ## Heading
+- ### Heading
+- #### Heading
+- ##### Heading
+- ###### Heading
 
 ---
 줄 바꿈
 
 
-Enter를 두번 누르거나</br>
+Enter를 두번 누르거나
+
+
  `<br/>`를 입력하면 된다
 
 ---
@@ -35,7 +36,7 @@ Enter를 두번 누르거나</br>
 
 ---
 
-** Quote **
+**Quote**
 > 인용하다
 
 목록화
@@ -70,7 +71,8 @@ print("Hello world!")
 *or*
 
 `print("Hello world!")`
-
+<br/>
+<br/>
 # **사진 출력**
 
 ![리자몽](https://static.wikia.nocookie.net/pokemon/images/c/c8/리자몽_공식_일러스트.png/revision/latest?cb=20170404233220&path-prefix=ko)
