@@ -71,3 +71,6 @@ print("Hello world!")
 
 `print("Hello world!")`
 
+# **사진 출력**
+
+![리자몽](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpokemon.fandom.com%2Fko%2Fwiki%2F%25EB%25A6%25AC%25EC%259E%2590%25EB%25AA%25BD_(%25ED%258F%25AC%25EC%25BC%2593%25EB%25AA%25AC)&psig=AOvVaw0pyiAzgKzU-TSsJ99N88xi&ust=1647086328289000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCa8-6AvvYCFQAAAAAdAAAAABAD)
