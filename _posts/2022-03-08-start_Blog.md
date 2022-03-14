@@ -77,4 +77,5 @@ print("Hello world!")
 <br/>
 # **사진 출력**
 
+##### *온라인상의 링크를 끌어와도 넣을 수 있다*
 ![망나뇽](https://mblogthumb-phinf.pstatic.net/MjAxNzAyMDVfMTA2/MDAxNDg2Mjk5NjY5OTEz.seU88Bi5KjlH0WaHsW-GZK1GMPIFKgVHtVD0Qz9yeqEg.El4Qn7kt4ywzKDA1b3zETHvIsIBvZou6koL60SqHTawg.JPEG.bins913/images_%282%29.jpg?type=w800)
