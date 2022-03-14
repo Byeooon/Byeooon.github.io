@@ -77,4 +77,4 @@ print("Hello world!")
 <br/>
 # **사진 출력**
 
-![리자몽](https://static.wikia.nocookie.net/pokemon/images/c/c8/리자몽_공식_일러스트.png/revision/latest?cb=20170404233220&path-prefix=ko)
+![망나뇽](https://mblogthumb-phinf.pstatic.net/MjAxNzAyMDVfMTA2/MDAxNDg2Mjk5NjY5OTEz.seU88Bi5KjlH0WaHsW-GZK1GMPIFKgVHtVD0Qz9yeqEg.El4Qn7kt4ywzKDA1b3zETHvIsIBvZou6koL60SqHTawg.JPEG.bins913/images_%282%29.jpg?type=w800)
