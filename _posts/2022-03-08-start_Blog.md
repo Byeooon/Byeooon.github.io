@@ -77,4 +77,4 @@ print("Hello world!")
 <br/>
 # **사진 출력**
 
-![리자몽](https://static.wikia.nocookie.net/pokemon/images/c/c8/리자몽_공식_일러스트.png/revision/latest/scale-to-width-down/1000?cb=20170404233220&path-prefix=ko)
+![리자몽](https://static.wikia.nocookie.net/pokemon/images/c/c8/리자몽_공식_일러스트.png/revision/latest?cb=20170404233220&path-prefix=ko)
