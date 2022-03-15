@@ -1,5 +1,5 @@
 ---
-date : 2022-03-09
+date : 2022-03-15
 title : "[Linux]명령어 정리"
 comments : false
 categories : 
