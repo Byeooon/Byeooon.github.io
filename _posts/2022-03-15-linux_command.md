@@ -66,3 +66,11 @@ $ clear
 ```
 $ sudo passwd [사용자명]
 ```
+- **pip 업그레이드**
+```
+$ pip install --upgrade pip
+```
+- **pip 버전확인**
+```
+$ pip --version
+```
