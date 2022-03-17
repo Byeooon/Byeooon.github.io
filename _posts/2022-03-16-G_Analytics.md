@@ -1,7 +1,7 @@
 ---
 date : 2022-03-16
 title : "[Blog] 구글 애널리틱스 적용"
-comments : false
+comments : true
 categories : 
     - Blog
 ---
