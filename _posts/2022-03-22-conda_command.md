@@ -2,6 +2,7 @@
 date : 2022-03-22
 title : "[Conda] Conda 명령어 정리"
 comments : true
+published: true 
 categories : 
     - Conda
 ---
