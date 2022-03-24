@@ -7,7 +7,7 @@ categories :
 ---
 ### 오늘은 재귀적 기법을 이용해 c++로 하노이 탑 알고리즘을 구현해봤다.<br>
 
-```C++
+```
 #include <iostream>
 using namespace std;
 
