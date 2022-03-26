@@ -6,7 +6,7 @@ categories :
     - C++
 ---
 
-```C++
+```c++
 #include <iostream>
 using namespace std;
 
