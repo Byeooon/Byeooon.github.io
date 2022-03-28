@@ -19,7 +19,7 @@ int main()
 {
     cin >> A >> B;
     
-    cout.precision(10); //소수점의 자리수를 조절
+    cout.precision(10); //소수점의 자리수를 조절. 기억해두면 유용할 함수이다.
 
     cout << A/B << endl;
 
