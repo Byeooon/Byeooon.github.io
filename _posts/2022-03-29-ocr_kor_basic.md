@@ -28,6 +28,7 @@ drive.mount("/content/gdrive") #gdrive는 원하는대로 설정 가능
 <br>
 
 * ##### 기본적인 코드는 저번과 동일하고 인식하는 부분에서 저번에 넣었던 기본적인 전처리 코드 외에도 몇가지 코드를 더 추가해서 인식률을 높아보았습니다.
+
 ```python
 image_name = "/content/smokingdreams.jpeg"
 min_conf = 0
