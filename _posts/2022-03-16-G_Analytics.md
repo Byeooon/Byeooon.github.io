@@ -5,7 +5,8 @@ comments : true
 categories : 
     - Blog
 ---
-![구글애널리틱스](https://e7.pngegg.com/pngimages/782/5/png-clipart-google-logo-google-analytics-google-angle-text.png)
+![구글애널리틱스](https://user-images.githubusercontent.com/55019557/161269891-4f258b09-8487-4738-9063-f4ec3f3fb3e3.png)
+
 #### *오늘은 블로그 분석을 하기 위해서 구글 애널리틱스를 사용해 보도록 하겠습니다.*
 
 ##### 먼저 구글 애널리틱스 홈페이지에 접속합니다.
