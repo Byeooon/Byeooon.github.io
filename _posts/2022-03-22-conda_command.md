@@ -7,7 +7,7 @@ categories :
     - Conda
 ---
 
-### python을 사용할 때 환경을 구분하기 위해 conda를 자주사용하는데 명령어를 계속 찾아보게 되어 오늘은 conda명령어에 대해 정리해보려고한다.<br>
+###### python을 사용할 때 환경을 구분하기 위해 conda를 자주사용하는데 명령어를 계속 찾아보게 되어 오늘은 conda명령어에 대해 정리해보려고한다.<br>
 아래는 conda를 다운 받을 수 있는 공식 깃허브이다.<br>
 miniforge3 download link : [Url](https://github.com/conda-forge/miniforge)
 
