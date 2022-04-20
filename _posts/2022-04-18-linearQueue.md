@@ -6,7 +6,7 @@ categories :
     - Data Structure
 ---
 
-```c++
+```c
 #include <stdlib.h>
 #include <stdio.h>
 #define SIZE 100
