@@ -6,7 +6,7 @@ categories :
     - Raspberry Pi
 ---
 
-![584830fecef1014c0b5e4aa2](https://user-images.githubusercontent.com/55019557/171116132-f05675f3-0762-498e-8ba5-da45800f3b0b.png)
+![img](https://user-images.githubusercontent.com/55019557/176106661-b4b08508-3703-4545-9db4-2bd69a5b5ac4.png)
 
 ##### 라즈베리 파이 한글깨짐 해결방법
 
