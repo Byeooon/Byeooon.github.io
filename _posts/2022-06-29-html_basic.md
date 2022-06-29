@@ -14,6 +14,8 @@ hello <strong>html</strong>. Nice to meet you.
 <a href="https://developer.mozilla.org/ko/docs/Web/HTML" target="_blank" title="link to html website">html reference</a>
 ```
 
+<br>
+
 ```html
 <!-- li*4 == <li></li> * 4-->
 
@@ -38,6 +40,8 @@ hello <strong>html</strong>. Nice to meet you.
     <li>third</li>
 </ol>
 ```
+
+<br>
 
 ```html
 <!DOCTYPE html>
