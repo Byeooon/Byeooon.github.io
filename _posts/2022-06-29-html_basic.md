@@ -7,7 +7,8 @@ categories :
 ---
 
 ###### 생활코딩님의 html 강의를 보며 학습한 내용입니다.
-
+---
+###### a.html
 ```html
 <h1>Letter to html</h1>
 hello <strong>html</strong>. Nice to meet you.
@@ -16,6 +17,7 @@ hello <strong>html</strong>. Nice to meet you.
 
 <br>
 
+###### b.html
 ```html
 <!-- li*4 == <li></li> * 4-->
 
@@ -43,6 +45,8 @@ hello <strong>html</strong>. Nice to meet you.
 
 <br>
 
+
+###### c.html
 ```html
 <!DOCTYPE html>
 <html>
