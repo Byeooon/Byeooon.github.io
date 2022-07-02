@@ -6,6 +6,8 @@ categories :
     - Raspberry Pi
 ---
 
+![img](https://user-images.githubusercontent.com/55019557/176106661-b4b08508-3703-4545-9db4-2bd69a5b5ac4.png)
+
 ###### 오늘은 라즈베리파이에 visual studio code를 설치하는 방법을 알아보도록 하겠습니다.
 
 ```
