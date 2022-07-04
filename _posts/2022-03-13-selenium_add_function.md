@@ -1,9 +1,9 @@
 ---
 date : 2022-03-13
-title : "[WebCrawaling] 셀레니움 기능 추가"
+title : "[Crawaling] 셀레니움 기능 추가"
 comments : true
 categories :
-    - WebCrawling
+    - Crawling
 ---
 
 *셀레니움 라이브러리를 이용하여 페이지를 스크롤링하는 기능과 확장기능을 추가하였습니다*
