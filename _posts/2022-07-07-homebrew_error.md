@@ -1,5 +1,5 @@
 ---
-date : 2022-07-05
+date : 2022-07-07
 title : "[Homebrew] Homebrew error on M1"
 comments : true
 categories :
@@ -25,5 +25,9 @@ Cannot install under Rosetta 2 in ARM default prefix (/opt/homebrew)!
 $ arch -arm64 brew install [패키지 이름]
 ```
 
-###### 하지만 매번 Homebrew를 이용할 때 마다 위와같은 추가 명령어를 입력할 순 없으니 근본적인 해결법을 다음글에서 설명하도록 하겠습니다.
+###### 하지만 매번 Homebrew를 이용할 때 마다 위와같은 추가 명령어를 입력할 순 없으니 근본적인 해결법을 설명하도록 하겠습니다.
+
+###### 저의 경우에는 터미널의 설정창을 command + i로 열었을 때, 'Rosetta를 사용하여 열기'가 체크되어 있었는데 체크를 해제하자 정상적으로 Homebrew를 이용할 수 있었습니다.
+
+<img width="400" alt="스크린샷 2022-07-08 오후 7 44 08" src="https://user-images.githubusercontent.com/55019557/177977627-de304735-4414-4c90-b2bc-28989d25f497.png">
 
