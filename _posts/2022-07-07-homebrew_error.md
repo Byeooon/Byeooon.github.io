@@ -31,3 +31,6 @@ $ arch -arm64 brew install [패키지 이름]
 
 <img width="400" alt="스크린샷 2022-07-08 오후 7 44 08" src="https://user-images.githubusercontent.com/55019557/177977627-de304735-4414-4c90-b2bc-28989d25f497.png">
 
+* 참고 
+
+[StackOverflow](https://stackoverflow.com/questions/64963370/error-cannot-install-in-homebrew-on-arm-processor-in-intel-default-prefix-usr)
