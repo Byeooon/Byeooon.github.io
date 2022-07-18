@@ -1,5 +1,5 @@
 ---
-date : 2022-07-15
+date : 2022-07-18
 title : "[YOLO] Yolov5 + Deepsort"
 comments : true
 categories : 
