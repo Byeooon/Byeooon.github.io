@@ -1,10 +1,12 @@
 ---
 date : 2022-07-18
-title : "[YOLO] Yolov5 + Deepsort"
+title : "[YOLO] Yolov5 + Deepsort on Colab"
 comments : true
 categories : 
     - YOLO
 ---
+
+###### Yolov5와 Deepsort를 Colab에서 실행시킬 수 있는 코드입니다.
 
 ```python
 !git clone --recurse-submodules https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch.git
@@ -45,3 +47,6 @@ torch.cuda.get_device_name(0)
 
 #!python track.py --source img.jpg
 ```
+
+###### 출처 : 
+* [GITHUB](https://github.com/AarohiSingla/Object-Tracking-Using-YOLOv5-and-DeepSORT)
