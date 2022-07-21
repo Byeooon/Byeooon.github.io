@@ -30,6 +30,7 @@ torch.cuda.is_available()
 torch.cuda.get_device_name(0)
 ```
 
+* f1.mp4 부분에 원하는 옵션을 선택하여 넣어줄 수  있습니다.
 ```python
 # python track.py --source 0  # webcam
 #                            img.jpg  # image
