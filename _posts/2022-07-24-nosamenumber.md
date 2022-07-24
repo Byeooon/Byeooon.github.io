@@ -1,6 +1,6 @@
 ---
 date : 2022-07-24
-title : "[Algorithm] [프로그래머스] 같은 숫자는 싫어"
+title : "[Algorithm] 프로그래머스 - 같은 숫자는 싫어"
 comments : true
 categories :
     - Algorithm
@@ -15,6 +15,8 @@ categories :
 ###### 제한사항
 * 배열 arr의 크기 : 1,000,000 이하의 자연수
 * 배열 arr의 원소의 크기 : 0보다 크거나 같고 9보다 작거나 같은 정수
+
+* 소스코드 :
 
 ```c++
 #include <vector>
