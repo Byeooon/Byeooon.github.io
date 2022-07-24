@@ -1,6 +1,6 @@
 ---
-date : 2022-05-07
-title : "[Algorithm] 프로그래머스 같은 숫자는 싫어"
+date : 2022-07-24
+title : "[Algorithm] [프로그래머스] 같은 숫자는 싫어"
 comments : true
 categories :
     - Algorithm
