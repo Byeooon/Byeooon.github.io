@@ -1,9 +1,9 @@
 ---
 date : 2022-03-25
-title : "[C++] 하노이 탑"
+title : "[Algorithm] 하노이 탑"
 comments : true
 categories : 
-    - C++
+    - Algorithm
 ---
 ### 오늘은 재귀적 기법을 이용해 c++로 하노이 탑 알고리즘을 구현해봤다.<br>
 
