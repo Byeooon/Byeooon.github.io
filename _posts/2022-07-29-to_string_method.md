@@ -1,6 +1,6 @@
 ---
 date : 2022-07-29
-title : "[C++] to_string"
+title : "[C++] to_string 메소드"
 comments : true
 categories : 
     - C++
