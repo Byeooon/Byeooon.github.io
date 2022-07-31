@@ -1,9 +1,9 @@
 ---
 date : 2022-03-26
-title : "[C++] 정수의 최댓값 최솟값"
+title : "[Algorithm] 정수의 최댓값 최솟값"
 comments : true
 categories : 
-    - C++
+    - Algorithm
 ---
 
 ```c++
