@@ -1,9 +1,9 @@
 ---
 date : 2022-04-09
-title : "[C++] 달팽이 배열 응용"
+title : "[Algorithm] 달팽이 배열 응용"
 comments : true
 categories : 
-    - C++
+    - Algorithm
 ---
 
 ###### 일반적인 형태의 배열을 달팽이 배열의 순서로 탐색하면서 입력받은 정수 a번째부터 b번째까지 존재하는 숫자들을 출력하는 문제입니다.

@@ -1,9 +1,9 @@
 ---
 date : 2022-04-05
-title : "[C++] 2의 거듭제곱 판별"
+title : "[Algorithm] 2의 거듭제곱 판별"
 comments : true
 categories : 
-    - C++
+    - Algorithm
 ---
 
 ```c++

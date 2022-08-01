@@ -1,9 +1,9 @@
 ---
 date : 2022-04-09
-title : "[C++] 두 구간이 차지하는 길이"
+title : "[Algorithm] 두 구간이 차지하는 길이"
 comments : true
 categories : 
-    - C++
+    - Algorithm
 ---
 
 ```c++

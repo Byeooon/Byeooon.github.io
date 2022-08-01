@@ -1,9 +1,9 @@
 ---
 date : 2022-04-08
-title : "[C++] 기본 배열 출력"
+title : "[Algorithm] 기본 배열 출력"
 comments : true
 categories : 
-    - C++
+    - Algorithm
 ---
 
 ```c++
