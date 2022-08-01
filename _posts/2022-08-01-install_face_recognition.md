@@ -21,3 +21,6 @@ categories :
 ```python
 !pip install face_recognition
 ```
+
+* 위의 명령어들을 모두 실행하면 아래와 같이 설치가 정상적으로 완료된 것을 확인할 수 있습니다.
+<img width="1000" alt="스크린샷 2022-08-01 오후 5 09 13" src="https://user-images.githubusercontent.com/55019557/182107561-722e93df-bb79-424b-9dc1-b4b5f1b073e0.png">
