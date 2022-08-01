@@ -1,9 +1,9 @@
 ---
 date : 2022-04-06
-title : "[C++] 자리수 거듭제곱 판별"
+title : "[Algorithm] 자리수 거듭제곱 판별"
 comments : true
 categories : 
-    - C++
+    - Algorithm
 ---
 
 ###### 전에 구현하였던 2의 제곱수와 다르게 입력되는 자리수 크기만큼의 거듭제곱수를 구하는 알고리즘입니다.

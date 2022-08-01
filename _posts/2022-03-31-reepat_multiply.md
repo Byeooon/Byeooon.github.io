@@ -1,9 +1,9 @@
 ---
 date : 2022-03-31
-title : "[C++] 모든자리수 반복곱하기"
+title : "[Algorithm] 모든자리수 반복곱하기"
 comments : true
 categories : 
-    - C++
+    - Algorithm
 ---
 
 ```c++
