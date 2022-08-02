@@ -1,9 +1,9 @@
 ---
 date : 2022-04-17
-title : "[C++] 주가분석"
+title : "[Algorithm] 주가분석"
 comments : true
 categories : 
-    - C++
+    - Algorithm
 ---
 
 ```c++

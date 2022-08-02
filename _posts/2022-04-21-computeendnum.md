@@ -1,9 +1,9 @@
 ---
 date : 2022-04-21
-title : "[C++] 끝자리 숫자 계산하기"
+title : "[Algorithm] 끝자리 숫자 계산하기"
 comments : true
 categories : 
-    - C++
+    - Algorithm
 ---
 
 ```c++
