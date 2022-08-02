@@ -1,5 +1,5 @@
 ---
-date : 2022-07-30
+date : 2022-08-01
 title : "[Computer Vision] Install Face_recognition"
 comments : true
 categories :
