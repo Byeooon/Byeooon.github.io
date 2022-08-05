@@ -1,6 +1,6 @@
 ---
 date : 2022-08-01
-title : "[Computer Vision] Install Face_recognition"
+title : "[Computer Vision] Install face_recognition"
 comments : true
 categories :
     - Computer Vision
