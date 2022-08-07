@@ -1,6 +1,6 @@
 ---
 date : 2022-08-06
-title : "[Computer Vision] ImportError on face_recognition on M1"
+title : "[Computer Vision] ImportError on face_recognition Library on M1"
 comments : true
 categories :
     - Computer Vision
