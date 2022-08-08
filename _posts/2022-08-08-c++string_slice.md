@@ -6,6 +6,8 @@ categories :
     - C++
 ---
 
+###### C++의 substr() 메소드의 사용법에 대해 알아보도록 하겠습니다.
+
 ```c++
 #include <string>
 #include <iostream>
