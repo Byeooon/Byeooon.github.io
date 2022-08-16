@@ -1,6 +1,6 @@
 ---
 date : 2022-08-15
-title : "[Markdown] markdown Table"
+title : "[Markdown] markdown Table 만들기"
 comments : true
 categories : 
     - MarkDown
