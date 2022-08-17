@@ -1,5 +1,5 @@
 ---
-date : 2022-07-18
+date : 2022-08-17
 title : "[Data Labeling] labelImg default label 설정하기"
 comments : true
 categories : 
