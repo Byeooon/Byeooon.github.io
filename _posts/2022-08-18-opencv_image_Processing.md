@@ -6,10 +6,14 @@ categories :
     - Computer Vision
 ---
 
+![opencv_logo_icon_170888](https://user-images.githubusercontent.com/55019557/185362228-b6584610-b972-43e4-a724-0fcb9e5ba529.png)
+
+
 ###### OpenCV에서 이미지를 읽고 출력하고 저장하는 방법에 대해 알아보도록 하겠습니다.
 
 ```python
 import cv2
+
 img = cv2.imread("whiteDog.jpg",cv2.IMREAD_GRAYSCALE)
 
 cv2.imshow("whiteDog.jpg", img)
