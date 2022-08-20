@@ -11,7 +11,7 @@ categories :
 import cv2
 cv2.imwrite("dog", img)
 ```
-
+* 오류내용
 ```python
 cv2.error: OpenCV(4.6.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:730: error: (-2:Unspecified error) could not find a writer for the specified extension in function 'imwrite_'
 ```
