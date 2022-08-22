@@ -1,5 +1,5 @@
 ---
-date : 2022-07-05
+date : 2022-08-22
 title : "[Data Labeling] Keyboard Shortcut on LabelImg"
 comments : true
 categories :
