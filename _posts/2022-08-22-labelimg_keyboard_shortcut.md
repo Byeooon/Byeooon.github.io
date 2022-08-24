@@ -15,3 +15,7 @@ categories :
 * Next Image : D
 
 * Prev Image : A
+
+* Delete the selected RectBox : Del
+
+
