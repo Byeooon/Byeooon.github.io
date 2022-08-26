@@ -1,6 +1,6 @@
 ---
 date : 2022-08-26
-title : "[Computer Vision] cv2.imwrite 확장자 오류"
+title : "[Computer Vision] error: (-215:Assertion failed) size.width>0 && size.height>0 in function 'imshow' 해결방법"
 comments : true
 categories : 
     - Computer Vision
