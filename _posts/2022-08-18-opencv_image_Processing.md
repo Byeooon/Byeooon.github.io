@@ -46,3 +46,5 @@ cv2.destroyAllWindows() # 모든 윈도우 제거
 ###### grayDog로 변환되어 images에 저장되는 것을 확인할 수 있습니다.
 ![grayDog](https://user-images.githubusercontent.com/55019557/185360471-7a87e91e-1702-4ba2-923d-c4ccd58f5bb1.jpg)
 
+* 참고 : [iagreebut.tistory](https://iagreebut.tistory.com/70)
+
