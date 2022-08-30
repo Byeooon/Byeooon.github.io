@@ -13,6 +13,6 @@ AttributeError: Can't get attribute 'DetectionModel' on <module 'models.yolo' fr
 
 ###### 이는 구버전의 yolo.py가 적용되어있을 때 발생하는 오류입니다.
 
-* [🐈‍⬛](https://github.com/ultralytics/yolov5/blob/master/models/yolo.py)
+* [GITHUB LINK](https://github.com/ultralytics/yolov5/blob/master/models/yolo.py)
 
 ###### 위의 공식 레포지토리에 접속해 최신버전으로 파일을 교체해주면 정상적으로 작동하는 것을 확인할 수 있습니다.
