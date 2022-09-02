@@ -6,6 +6,8 @@ categories :
     - Python
 ---
 
+###### 파이썬의 strftime()메소 포맷 코드를 모아놓은 표입니다.
+
 * 사용예시 :
 
 ```python
