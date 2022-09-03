@@ -6,31 +6,17 @@ categories :
     - YOLO
 ---
 
-###### Yolov5와 Deepsort를 Colab에서 실행시킬 수 있는 코드입니다.
+###### Yolov5에 Deepsort 알고리즘을 적용한 코드를 Google Colab에서 실행시킬 수 있는 코드입니다.
 
 ```python
 !git clone --recurse-submodules https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch.git
 ```
-
 ```python
 cd Yolov5_DeepSort_Pytorch
 ```
-
 ```python
 !pip install -r requirements.txt
 ```
-
-```python
-pip install torch==1.8.1+cu111 torchvision==0.9.1+cu111 torchaudio==0.8.1 -f https://download.pytorch.org/whl/torch_stable.html
-```
-
-```python
-import torch
-torch.cuda.is_available() 
-torch.cuda.get_device_name(0)
-```
-
-* f1.mp4 부분에 원하는 옵션을 선택하여 넣어줄 수  있습니다.
 
 ```python
 # python track.py --source 0  # webcam
@@ -51,4 +37,4 @@ torch.cuda.get_device_name(0)
 ```
 
 ###### 출처 : 
-* [GITHUB](https://github.com/AarohiSingla/Object-Tracking-Using-YOLOv5-and-DeepSORT)
+* [Github](https://github.com/AarohiSingla/Object-Tracking-Using-YOLOv5-and-DeepSORT)
