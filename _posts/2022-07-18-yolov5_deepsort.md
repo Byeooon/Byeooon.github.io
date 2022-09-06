@@ -1,12 +1,14 @@
 ---
 date : 2022-07-18
-title : "[YOLO] Yolov5 + Deepsort on Colab"
+title : "[YOLO] Yolov5 with Deepsort Algorithm on Colab"
 comments : true
 categories : 
     - YOLO
 ---
 
 ###### Yolov5에 Deepsort 알고리즘을 적용한 코드를 Google Colab에서 실행시킬 수 있는 코드입니다.
+
+* 기본 설치 과정
 
 ```python
 !git clone --recurse-submodules https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch.git
@@ -17,6 +19,10 @@ cd Yolov5_DeepSort_Pytorch
 ```python
 !pip install -r requirements.txt
 ```
+
+-----
+
+* 실행 코드
 
 ```python
 # python track.py --source 0  # webcam
