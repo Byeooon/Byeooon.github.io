@@ -36,7 +36,7 @@ git config --list
 
 ---
 
-* 추가적으로 브랜치를 이동하고 싶으면 아래의 checkout명령어를 통해 이동할 수 있습니다.
+* 추가적으로 브랜치를 이동하고 싶으면, 아래의 checkout명령어를 통해 이동할 수 있습니다.
 
 ```python
 git checkout [Bracnh Name]
