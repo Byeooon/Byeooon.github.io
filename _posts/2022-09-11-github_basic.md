@@ -16,20 +16,20 @@ git clone "[Repository Address]"
 
 * config 명령어를 통해 이름과 이메일이 등록되어있는지 확인해줍니다.
 
-```pyhon
+```python
 git config --list
 ```
 
 * 등록되어있지 않은 경우, 아래의 명령어를 통해 등록해줍니다.
 
-```pyhon
+```python
 git config user.name [User Name]
 git config user.email [Email Address]
 ```
 
 * 다시 확인을 해보면 등록되어있는 것을 확인할 수 있습니다.
 
-```pyhon
+```python
 git config --list
 ```
 
