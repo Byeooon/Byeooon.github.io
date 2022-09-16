@@ -24,7 +24,7 @@ driver = webdriver.Chrome("/Users/byeon/PycharmProjects/Kobot/Chrome_Driver/chro
 driver.get("https://www.google.co.kr/imghp?hl=ko&ogbl ")
 
 elem = driver.find_element(by = By.NAME, value = "q") #검색창 불러오기
-elem.send_keys("윈터") #검색창에 검색어 입력
+elem.send_keys(keyword) #검색창에 검색어 입력
 elem.send_keys(Keys.RETURN) #Enter입력
 
 SCROLL_PAUSE_TIME = 3.0 #스크롤 하는 시간 / 이 시간이 짧으면 스크롤을 다 하기전에 이미지를 불러오기 시작해 오류가 발생할 수 있다.
