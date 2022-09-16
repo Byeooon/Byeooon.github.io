@@ -9,11 +9,13 @@ categories :
 ###### Google Image Downloader를 이용해서 이미지를 크롤링하는 방법에 대해 알아보도록 하겠습니다.
 
 ###### 먼저 명령어를 입력해줍니다.
+
 ```python
 pip install git+https://github.com/Joeclinton1/google-images-download.git
 ```
 
 * 소스코드 : 
+
 ```python
 from google_images_download import google_images_download
 
@@ -35,11 +37,13 @@ googleImageCrawling(key, int(limit))
 ###### 위의 소스코드를 그대로 실행하면 오류가 뜨는 경우가 있는데 이는 라이브러리 버전때문에 생기는 오류입니다. 따라서 아래의 가이드를 따라 소스코드를 바꿔주면 해결할 수 있습니다.
 
 ###### 먼저 아래 경로로 이동해 google_images_download.py를 열어줍니다.
+
 ```
 가상환경위치 -> lib -> python3.7 -> site-packages -> google_images_download -> google_images_download.py
 ```
 
 ###### 그리고 302번으로 이동해 아래와 같이 소스 코드를 변경해줍니다.
+
 ```python
 # Bypass "Before you continue" if it appears
 try:
