@@ -10,6 +10,8 @@ categories :
 
 ###### 먼저 명령어를 입력해 파일을 다운받아 줍니다.
 
+###### 추가로 100장 이상의 사진을 크롤링을 하고싶은 경우에는 자신의 크롬버전에 해당하는 크롬드라이버를 소스코드와 같은 경로상에 위치시켜줘야 합니다.
+
 ```python
 pip install git+https://github.com/Joeclinton1/google-images-download.git
 ```
