@@ -7,3 +7,7 @@ categories :
 ---
 
 ###### OpenCV를 이용한 화소처리기법에 대해 알아보도록 하겠습니다.
+
+```python
+cv2.add()
+```
