@@ -1,15 +1,17 @@
 ---
-date : 2022-08-06
-title : "[Computer Vision] OpenCV 영상 밝기 조절"
+date : 2022-09-22
+title : "[Computer Vision] OpenCV Image Processing"
 comments : true
 categories :
     - Computer Vision
 ---
 
-###### OpenCV를 이용해 영상의 밝기를 조절하는 방법에 대해 알아보도록 하겠습니다
+###### OpenCV를 이용해 이미지를 처리하는 방법에 대해 알아보도록 하겠습니다.
 
-* src : 영상 소스
-* val : 조절할 밝기 값
+
+* 밝기 조절
 ```python
 cv2.add([src],[val])
 ```
+###### src : 영상 소스
+###### val : 조절할 밝기 값
