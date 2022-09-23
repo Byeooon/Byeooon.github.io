@@ -12,11 +12,14 @@ categories :
 * 밝기 조절
 ```python
 cv2.add([src],[val])
+# val : 조절할 밝기 값
 ```
-###### val : 조절할 밝기 값
+
 
 * 크기 조절
 ```python
 cv2.resize([src], (30,30))
+# src를 30X30으로 변경
 ```
-###### src를 30X30으로 변경
+
+
