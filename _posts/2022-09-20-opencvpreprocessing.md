@@ -11,15 +11,26 @@ categories :
 
 * 밝기 조절
 ```python
-cv2.add([src],[val])
+cv2.add(src,[val])
 # val : 조절할 밝기 값
 ```
 
 
 * 크기 조절
 ```python
-cv2.resize([src], (30,30))
+cv2.resize(src, (30,30))
 # src를 30X30으로 변경
 ```
+
+* Blur 처리
+```python
+cv2.blur(src, (5,5))
+# 5*5 평균값으로 이미지를 흐리게 함
+# 커널의 크기가 커질수록 이미지가 더욱 흐려진다.
+```
+
+
+
+
 
 
