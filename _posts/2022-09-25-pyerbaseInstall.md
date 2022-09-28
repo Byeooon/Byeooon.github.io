@@ -1,6 +1,6 @@
 ---
 date : 2022-09-25
-title : "[Firebase] Install Pyerbase"
+title : "[Firebase] Install Pyerbase4"
 comments : true
 categories :
     - Firebase
