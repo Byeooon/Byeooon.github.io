@@ -1,12 +1,12 @@
 ---
 date : 2022-09-22
-title : "[Computer Vision] OpenCV Image Processing"
+title : "[Computer Vision] OpenCV Image Processing Methods"
 comments : true
 categories :
     - Computer Vision
 ---
 
-###### OpenCV를 이용해 이미지를 처리하는 방법에 대해 알아보도록 하겠습니다.
+###### OpenCV를 이용해 이미지를 처리하는 여러 방법들에 대해 간단히 알아보도록 하겠습니다.
 
 
 * 밝기 조절
