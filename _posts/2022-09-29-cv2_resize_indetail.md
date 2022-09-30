@@ -1,5 +1,5 @@
 ---
-date : 2022-09-30
+date : 2022-09-29
 title : "[Computer Vision] cv2.resize() function in Detail"
 comments : true
 categories :
