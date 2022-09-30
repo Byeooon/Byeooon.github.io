@@ -12,8 +12,8 @@ categories :
 
 ```python
 cv2.resize(src, dsize, dst=None, fx=None, fy=None, interpolation=None)
-
 ```
+
 |인자|설명|비고|
 |-----|-----|-----|
 |src|가공할 이미지나 영상||
