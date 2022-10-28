@@ -1,6 +1,6 @@
 ---
 date : 2022-10-27
-title : "[Android Studio] Linear Layout 정렬방식"
+title : "[Android Studio] Linear Layout Orientation"
 comments : true
 categories :
     - Android Studio
