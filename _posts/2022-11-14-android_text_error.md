@@ -1,6 +1,6 @@
 ---
 date : 2022-11-14
-title : "[Android Studio] TextVieww android:text error"
+title : "[Android Studio] TextView android:text error"
 comments : true
 categories :
     - Android Studio
