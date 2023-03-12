@@ -1,5 +1,5 @@
 ---
-date : 2023-03-11
+date : 2023-03-12
 title : "[Mac] Mac OS 업데이트시 발생하는 Git 오류 해결방법"
 comments : true
 categories : 
@@ -18,8 +18,6 @@ xcrun: error: invalid active developer path ...
 ```
 
 <br>
-
-
 
 ###### 이 때, 아래의 명령어를 입력하고 설치과정을 진행하면 간단하게 해결할 수 있습니다.
 
