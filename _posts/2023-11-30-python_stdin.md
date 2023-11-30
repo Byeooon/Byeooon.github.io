@@ -1,5 +1,5 @@
 ---
-date : 2022-11-30
+date : 2023-11-30
 title : "[Python] Input with sys.stdin.readline"
 comments : true
 categories : 
