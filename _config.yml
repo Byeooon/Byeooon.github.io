@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "변쓰"
-  avatar           : "assets/images/Charizard.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg" #상대경로
+  avatar           : "assets/images/newyorkerbyeon.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg" #상대경로
   bio              : "Developing..."
   location         : "Seoul, Korea"
   email            :
